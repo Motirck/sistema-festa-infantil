@@ -1,0 +1,53 @@
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\bin\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\bin\Debug\Dal.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\bin\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\bin\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\obj\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Dal\obj\Debug\Dal.pdb
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\bin\Debug\Dal.dll
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\bin\Debug\Dal.pdb
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\bin\Debug\Classes.dll
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\bin\Debug\Classes.pdb
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.dll
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.pdb
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\bin\Debug\Dal.dll
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\bin\Debug\Dal.pdb
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\bin\Debug\Classes.dll
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\bin\Debug\Classes.pdb
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.dll
+C:\Users\Usuario\Desktop\MCSERVER\SistemaFestaInfantil-develop\Dal\obj\Debug\Dal.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\bin\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\bin\Debug\Dal.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\bin\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\bin\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\obj\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Dal\obj\Debug\Dal.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Dal.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Dal.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\bin\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.csprojAssemblyReference.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.csproj.CopyComplete
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Dal\obj\Debug\Dal.pdb

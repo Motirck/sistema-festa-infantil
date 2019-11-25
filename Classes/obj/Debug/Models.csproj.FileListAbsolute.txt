@@ -1,0 +1,23 @@
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Classes\bin\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Classes\bin\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Classes\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Classes\obj\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Classes\obj\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\PROJETO_LOJA_POO_FESTAS\Classes\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Classes\bin\Debug\Classes.dll
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Classes\bin\Debug\Classes.pdb
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Classes\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Classes\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Classes\obj\Debug\Classes.dll
+C:\Users\felip\Documents\Sistemas de Informação\2 Periodo\POO Priscila\Festa infantil Sistema\SistemaFestaInfantil-develop\Classes\obj\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Classes\bin\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Classes\bin\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Classes\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Classes\obj\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SistemaFestaInfantil-develop24-11\Classes\obj\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Classes\bin\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Classes\bin\Debug\Classes.pdb
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Classes\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Classes\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Classes\obj\Debug\Classes.dll
+C:\Users\ricar\Documents\Ricardo Alves - Documentos\DOCTUM RICARDO\2 PERIODO\SISTEMA FESTA INFANTIL\SistemaFestaInfantil-develop26-11\Classes\obj\Debug\Classes.pdb
